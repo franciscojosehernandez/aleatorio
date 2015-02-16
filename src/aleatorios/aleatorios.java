@@ -27,5 +27,5 @@ public class aleatorios {
             System.out.println(c);        
       }
 
-} 
+} /* prueba */
     
